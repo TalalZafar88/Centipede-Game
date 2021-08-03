@@ -1,2 +1,2 @@
 # Centipede-Game
-I made Centipede game using only C++ and Oop core concepts.
+Attractive Centipede game developed using only C++ and Oop core concepts.
